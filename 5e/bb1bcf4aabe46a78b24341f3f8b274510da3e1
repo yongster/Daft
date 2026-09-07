@@ -1,0 +1,28 @@
+src/daft-file/src/meta.rs
+  s_a31b821d34d4a6::t_6bdc54891c92c0 4-5,23-28,31-42
+  s_a31b821d34d4a6::t_addfc35b4dbbd9 29-30
+  s_a31b821d34d4a6::t_a24949c1196d30 43-44
+tests/file/test_file_basics.py
+  s_a31b821d34d4a6::t_b08bf7a22fbe75 194-213
+src/daft-file/src/functions.rs
+  s_a31b821d34d4a6::t_6bdc54891c92c0 18,488-489,494,503-504,510-512
+  s_a31b821d34d4a6::t_addfc35b4dbbd9 505-509
+src/lib.rs
+  s_a31b821d34d4a6::t_451e8628f6fa12 182
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "5ebb1bcf4aabe46a78b24341f3f8b274510da3e1",
+  "prompts": {},
+  "sessions": {
+    "s_a31b821d34d4a6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a07b9f-044e-7e00-9cdc-924321dc93bc",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "yang3.xie <yang3.xie@ly.com>"
+    }
+  }
+}
