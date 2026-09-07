@@ -1,0 +1,22 @@
+src/daft-file/src/functions.rs
+  s_a31b821d34d4a6::t_5164fb819a418e 487-490,494-497
+tests/file/test_file_basics.py
+  s_a31b821d34d4a6::t_5164fb819a418e 7-9,217-260
+  s_a31b821d34d4a6::t_d71afb6b190c67 261-262
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "113d39765eda87b2056a914dab9c716f2b2e6b11",
+  "prompts": {},
+  "sessions": {
+    "s_a31b821d34d4a6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a07b9f-044e-7e00-9cdc-924321dc93bc",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "yang3.xie <yang3.xie@ly.com>"
+    }
+  }
+}
